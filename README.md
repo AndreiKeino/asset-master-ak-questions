@@ -1,4 +1,4 @@
-#  asset-master website, is a portfolio optimization website!
+#  asset-master.net is a website for the portfolio optimization.
 
 ## to ask a question or to report a bug or to leave a feedback on website 
 # https://asset-master.net/ 
